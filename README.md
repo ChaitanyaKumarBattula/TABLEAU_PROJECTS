@@ -19,8 +19,8 @@ This project involves interactive **Tableau dashboards** designed to analyze **s
 ## Screenshots
 Below are screenshots of the Tableau dashboards:
 
+### Sales Dashboard
+![Sales Dashboard](Sales%20&%20Customer%20Dashboards/screenshots/sales_dashboard.png)
+
 ### Customer Dashboard
 ![Customer Dashboard](Sales%20&%20Customer%20Dashboards/screenshots/customer_dashboard.png)
-
-### Sales Dashboard
-![Sales Dashboard](Sales & Customer Dashboards/screenshots/sales_dashboard.png)
